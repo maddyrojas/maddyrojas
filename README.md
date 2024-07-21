@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my profile
+<h1 align="center">Hi there 👋 Welcome to my profile</h1>
 
 ![MaddyRojas](https://raw.githubusercontent.com/maddyrojas/maddyrojas/main/MADELYN%20ROJAS%20(1).png)
 
